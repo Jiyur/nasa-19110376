@@ -17,6 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "mongoose": "^6.7.2",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
