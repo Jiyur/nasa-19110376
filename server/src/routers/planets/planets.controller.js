@@ -1,6 +1,6 @@
-const {getAllPlanets,planets}=require('../../models/planets.model.js')
-function httpGetAllPlanets(req,res){
-    res.status(200).json(getAllPlanets())
+const {getAllPlanets}=require('../../models/planets.model.js')
+async function httpGetAllPlanets(req,res){
+    res.status(200).json(await getAllPlanets())
 }
 
 module.exports={
