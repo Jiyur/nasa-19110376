@@ -1,6 +1,13 @@
-# **Cách chạy PROJECT--**
-# Trong thư mục project gốc, chạy lệnh npm install
-# Trong thư mục server, chạy npm install
-# Trong thư mục client, chạy npm install
-# Npm start lần lượt ở server và client
+-- After clone
+npm install
 
+-- Client:
+cd client
+npm install
+npm start 
+
+-- Server:
+cd server
+npm install
+npm start
+```
