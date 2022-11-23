@@ -1,4 +1,6 @@
-# **Cách chạy SUPERTEST --**
-#Chạy ở thư mục project gốc, chạy lệnh npm install
+# **Cách chạy PROJECT--**
+#Trong thư mục project gốc, chạy lệnh npm install
 #Trong thư mục server, chạy npm install
-#Sau khi hoàn thành, chạy npm test ở thư mục server
+# Trong thư mục client, chạy npm install
+# Npm start lần lượt ở server và client
+
